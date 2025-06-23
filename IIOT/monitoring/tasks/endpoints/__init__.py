@@ -1,0 +1,1 @@
+from IIOT.monitoring.tasks.endpoints.task_endpoint import router as task_router

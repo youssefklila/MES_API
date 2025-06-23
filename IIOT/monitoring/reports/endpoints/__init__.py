@@ -1,0 +1,1 @@
+from IIOT.monitoring.reports.endpoints.report_endpoint import router as report_router
